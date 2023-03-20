@@ -1,4 +1,4 @@
-<font size=”1”>
+<font size=”5”>
 **FreeRTOS Fundamentals**
 
 Welcome to the FreeRTOS Fundamentals repository! This repository provides an introduction to FreeRTOS and covers some of its fundamental features such as semaphores, queues, mutex, and more.
